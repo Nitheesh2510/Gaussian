@@ -48,6 +48,7 @@ for i in range(n):
 
 ## Output:
 
+![Screenshot 2025-04-23 113655](https://github.com/user-attachments/assets/1bb007c7-3d24-4d73-bc6f-69447a61ff8f)
 
 
 ## Result:
